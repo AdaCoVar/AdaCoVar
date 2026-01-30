@@ -45,14 +45,6 @@ I am a results-driven **Computer Systems Engineer** specializing in the full sof
 
 ---
 
-## 📈 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdaCoVar&show_icons=true&theme=dracula&count_private=true" alt="Ada's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaCoVar&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/adamari-cortes](https://www.linkedin.com/in/adamari-cortes/)
 - **Specialties:** Technical Consulting, Full Stack Development, and Data Analysis.
